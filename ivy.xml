@@ -12,6 +12,7 @@
 	<dependencies>
 		<dependency org="org.hibernate" name="hibernate-entitymanager" rev="3.6.7.Final" conf="default" />
 		<dependency org="org.hibernate" name="hibernate-c3p0" rev="3.6.7.Final" conf="default" />
+		<dependency org="mysql" name="mysql-connector-java" rev="5.1.18" conf="default" />
 		<!-- 
 		<dependency org="org.hibernate" name="hibernate-validator" rev="4.2.0.Final" conf="default" />
  		-->
